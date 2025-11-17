@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Comp Sci Major at UAB!
+BS in Computer Science from UAB. Aspiring SWE. More to come.
 
 
 ## 🌐 Socials:
